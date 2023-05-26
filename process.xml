@@ -1,7 +1,7 @@
 <mxlibrary>[
   {
     "title":"Schubidu",
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"280\" height=\"250\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"280\" height=\"250\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"Actor\" style=\"shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"125\" y=\"10\" width=\"30\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "xml": "xVNBboMwEHyN78Ruql4TaHNppUh5gQNbbMmwllkK6etrYlNIE9RWPfSAtJ6d0e6MMRNp1e+ctOoFCzBMPDKROkQKVdWnYAzjiS6YyBjnif8Yf1rors7dxEoHNf1EwIPgTZoWAhKAhk4mAqXD1kYaOIL+YlSOdQ05yeNIT65XOFPj/B1gBeROntLpglRc4yHKFOhSRRlfR1A2cZNP7eTIF9HUbYPie4ONknYoFfSyxJqJrQWn/SRwE7ofIe9k2ylNcLAyH2SdvzyPKar8DtnKl6+6h+Kg3yGeF8Obh8T/MaS7q5A2OaFbTKqtTCCI7eBK59I8yyOYPTaa9BBhdkQirGaEjdHl0CD8kha2ZHQNafiRPJj8MbJRwNdBcornGNQsUXEj0Pvf5+mP04s99y4e9Ac=",
     "w": 280,
     "h": 250,
     "aspect": "fixed"
